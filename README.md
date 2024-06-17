@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prashant Singh</h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Prashant Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p
 <h3 align="center">A passionate Software developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
