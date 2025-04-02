@@ -21,8 +21,6 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-80&show_icons=true&locale=en&layout=compact" alt="prashant-80" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashant-80&show_icons=true&locale=en" alt="prashant-80" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-80&" alt="prashant-80" /></p>
 
 ### LeetCode Stats
