@@ -36,7 +36,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-
 ## 📫 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/prashant-singh-1a089824a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashant-singh-1a089824a" height="30" width="40" /></a>
@@ -44,6 +43,4 @@
 <a href="mailto:singh.prash80@gmail.com"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 
-## 📊 GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prashant-80&show_icons=true&locale=en&layout=compact&theme=radical" alt="prashant-80" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-80&theme=radical" alt="prashant-80" /></p>
